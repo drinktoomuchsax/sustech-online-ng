@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f4bc5604","path":"/miniapp/","title":"南科手册-微信小程序","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"南科手册Times","slug":"南科手册times","link":"#南科手册times","children":[]}],"git":{"updatedTime":1632137863000,"contributors":[{"name":"liziwl","email":"leezisy@gmail.com","commits":1}]},"filePathRelative":"miniapp/README.md"}');export{e as data};

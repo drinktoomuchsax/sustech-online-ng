@@ -1,0 +1,1 @@
+const o=JSON.parse('{"key":"v-5589dd0c","path":"/life/dormitory/dorm-floor-plan.html","title":"宿舍平面图","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1660966100000,"contributors":[{"name":"sparkcyf","email":"sparktour@outlook.com","commits":2}]},"filePathRelative":"life/dormitory/dorm-floor-plan.md"}');export{o as data};

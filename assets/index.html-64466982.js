@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-22cd7d0c","path":"/facility/panolens/","title":"全景看校园","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1625151702000,"contributors":[{"name":"sparkcyf","email":"sparktour@outlook.com","commits":1}]},"filePathRelative":"facility/panolens/README.md"}');export{t as data};
